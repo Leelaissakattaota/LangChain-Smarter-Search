@@ -25,11 +25,6 @@ Comprehensive lab covering **4 advanced LangChain retrieval strategies** — fro
 ## 🎓 Skills Demonstrated
 LangChain advanced retrievers · Multi-Query retrieval · Self-querying · Parent document context · IBM Watsonx · Vector store retrieval
 
-## 📛 Suggested Name & Description
-**Name:** `langchain-advanced-retrievers`  
-**Description:** `4 LangChain advanced retrieval strategies — Vector Store, Multi-Query, Self-Querying & Parent Document retrievers using IBM Watsonx for smarter context-aware search`  
-**Topics:** `langchain` `rag` `ibm-watsonx` `retrieval` `vector-search` `multi-query` `self-querying` `python` `jupyter-notebook`
-
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leela%20A-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leela-a)
 [![Gmail](https://img.shields.io/badge/Gmail-attotaleelaissak@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:attotaleelaissak@gmail.com)
